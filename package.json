@@ -1,8 +1,12 @@
 {
-  "name": "@huynhhuuy1999/sum-package",
+  "name": "huuy-sum-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "test package",
   "main": "index.js",
+  "keywords": [
+    "sum",
+    "test-sum"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
